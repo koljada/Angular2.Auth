@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Angular2.Auth", "Angular2.Auth\Angular2.Auth.xproj", "{90DAA484-93C0-4E41-A601-1A0B5B0227C1}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90DAA484-93C0-4E41-A601-1A0B5B0227C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90DAA484-93C0-4E41-A601-1A0B5B0227C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90DAA484-93C0-4E41-A601-1A0B5B0227C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90DAA484-93C0-4E41-A601-1A0B5B0227C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
